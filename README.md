@@ -5,7 +5,7 @@ Home: https://github.com/python-hyper/h11
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A pure-Python HTTP/1.1 protocol library.
 
